@@ -1,3 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
 .tabs {
   border: 1px solid #cccccc;
   display: flex;
