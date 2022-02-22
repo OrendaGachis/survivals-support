@@ -1,1 +1,1 @@
-# survivals-support the issue with the code here is that the text is not showing however the format is working perfectly fine. Meaning it looks like it shoul dbut not showing the content of the text ive written. Please help 
+Edited using bootstrap and bootswatch now uploading on netlify
